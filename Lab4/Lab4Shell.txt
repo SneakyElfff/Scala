@@ -111,10 +111,6 @@ inside
 scala> val patternWithT = "t"
 patternWithT: String = t
 
-scala> val wordsContainingT = textWithoutStopOnes.filter(word => word.contains(patternWuthT))
-<console>:23: error: not found: value patternWuthT
-       val wordsContainingT = textWithoutStopOnes.filter(word => word.contains(patternWuthT))
-                                                                               ^
 
 scala> val wordsContainingT = textWithoutStopOnes.filter(word => word.contains(patternWithT))
 wordsContainingT: org.apache.spark.sql.Dataset[String] = [value: string]
