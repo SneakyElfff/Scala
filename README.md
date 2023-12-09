@@ -20,7 +20,7 @@
 - Скачать файлы en-token.bin и en-ner-person.bin;
 - Скопировать в папку проекта.
 
-### [Разбиение текста на токена](https://github.com/SneakyElfff/Scala/blob/84bfb613a2cecda231d1282d7ae0d865724fd3e5/Lectures/November23th/Main26.scala)
+### [Разбиение текста на токены](https://github.com/SneakyElfff/Scala/blob/84bfb613a2cecda231d1282d7ae0d865724fd3e5/Lectures/November23th/Main26.scala)
 Аналогично предыдущему случаю.
 
 ### [Пример с именной группой](https://github.com/SneakyElfff/Scala/blob/84bfb613a2cecda231d1282d7ae0d865724fd3e5/Lectures/November23th/Main27.scala)
